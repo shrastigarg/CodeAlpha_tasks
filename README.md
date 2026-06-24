@@ -42,8 +42,8 @@ This project is ideal for learning core Python programming concepts and understa
 | User Input        | Bot Response          |
 | ----------------- | --------------------- |
 | hello / hi / hey  | Greeting Message      |
-| how are you       | Status Response       |
-| what's your name  | Bot Introduction      |
+| how are you?      | Status Response       |
+| what's your name? | Bot Introduction      |
 | tell me a joke    | Random Joke           |
 | help              | Available Commands    |
 | thank you         | Appreciation Response |
