@@ -35,7 +35,7 @@ def chatbot():
             print("Bot: I'm doing great! Thanks for asking. 😊")
 
         elif user == "what's your name?" or user == "who are you?":
-            print("Bot: I'm Simples ChatBot, your virtual assistant.")
+            print("Bot: I'm Simple ChatBot, your virtual assistant.")
 
         elif user == "tell me a joke":
             tell_joke()
