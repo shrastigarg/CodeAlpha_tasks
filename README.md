@@ -1,4 +1,4 @@
-# CodeAlpha_taska
+# CodeAlpha_tasks
 
 # PROJECT 1 📌
 ## 🤖 Smart ChatBot
